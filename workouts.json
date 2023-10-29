@@ -1,0 +1,19 @@
+{
+  "all_workouts": [
+    "arms",
+    "push_legs",
+    "pull_legs",
+    "core",
+    "chest",
+    "shoulder_back",
+    "rest"
+  ],
+  "current_workouts": [
+    "arms",
+    "push_legs",
+    "core",
+    "chest",
+    "shoulder_back",
+    "rest"
+  ]
+}
